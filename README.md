@@ -8,7 +8,9 @@ Pour exécuter ce programme, vous devez d'abord avoir Python installé, ainsi qu
 
 Cette étape ne doit être effectuée qu'une seule fois.
 
-Téléchargez la dernière version de Python sur : https://www.python.org/downloads/
+Téléchargez le "standalone installer" le plus récent sur : https://www.python.org/downloads/
+
+Lorsque vous installez python, assurez-vous de cocher l'option *Add python.exe to PATH*
 
 Une fois Python installé, ouvrez votre terminal et exécutez la commande suivante : `pip install matplotlib`
 
@@ -119,6 +121,7 @@ Le boutton `Effacer les résultats` efface, comme son nom l’indique, tous les 
 Code: MIT License  
 Documentation and visuals: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
 See the [LICENSE](LICENSE) file for full details.
+
 
 
 
