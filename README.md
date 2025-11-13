@@ -1,5 +1,5 @@
 # Résolveur d'Équations
-Ce programme a été réalisé dans le cadre de mon "Projet Personnel".
+Ce programme a été réalisé dans le cadre de mon Projet Personnel.
 Il permet de trouver les solutions d'équations quadratiques, valeur absolue, racine carrée et rationnelles.
 
 ## Dépendances
@@ -108,9 +108,9 @@ Si vous ne remplissez pas un champ, la valeur par défaut sera utilisée :
 
 En bas de chaque onglet de résolution, une zone affiche les réponses obtenues
 
-Le boutton `Copier les résultats` permet de copier tous les résultats actuellement affichés.
+Le bouton `Copier les résultats` permet de copier tous les résultats actuellement affichés.
 
-Le boutton `Effacer les résultats` efface, comme son nom l’indique, tous les résultats affichés dans la zone.
+Le bouton `Effacer les résultats` efface, comme son nom l’indique, tous les résultats affichés dans la zone.
 ‎ 
 ‎ 
 ‎ 
@@ -121,6 +121,7 @@ Le boutton `Effacer les résultats` efface, comme son nom l’indique, tous les 
 Code: MIT License  
 Documentation and visuals: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
 See the [LICENSE](LICENSE) file for full details.
+
 
 
 
