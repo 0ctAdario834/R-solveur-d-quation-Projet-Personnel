@@ -104,7 +104,7 @@ Si vous ne remplissez pas un champ, la valeur par défaut sera utilisée :
 1 pour a et b, 0 pour h, k et y.
 
 
-## Results box
+## Champs de résultats
 
 En bas de chaque onglet de résolution, une zone affiche les réponses obtenues
 
@@ -121,6 +121,7 @@ Le boutton `Effacer les résultats` efface, comme son nom l’indique, tous les 
 Code: MIT License  
 Documentation and visuals: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
 See the [LICENSE](LICENSE) file for full details.
+
 
 
 
