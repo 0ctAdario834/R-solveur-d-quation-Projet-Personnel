@@ -30,7 +30,7 @@ Les onglets se trouvent en haut de la fenêtre (Accueil, Quadratique, Valeur Abs
 Tous les onglets sont actifs en même temps : il n’est pas nécessaire de les ouvrir ou fermer manuellement à chaque utilisation.
 Ils conservent également les valeurs saisies et les réponses lorsque vous passez de l’un à l’autre (les données sont conservées uniquement tant que le programme reste ouvert).
 
-# Equations
+# Équations
 
 Ce résolveur prend en charge 4 types d’équations :
 
@@ -75,7 +75,7 @@ Pour saisir les valeurs de votre équation, entrez-les simplement dans les champ
 Si vous ne remplissez pas un champ, la valeur par défaut sera utilisée :
 1 pour a et b, 0 pour h, k et y.
 
-## Square Root
+## Racine Carrée
 
 Le programme permet de résoudre une équation de racine carrée de la forme :
 
@@ -121,6 +121,7 @@ Le boutton `Effacer les résultats` efface, comme son nom l’indique, tous les 
 Code: MIT License  
 Documentation and visuals: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
 See the [LICENSE](LICENSE) file for full details.
+
 
 
 
